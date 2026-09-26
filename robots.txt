@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://anappcabral.github.io/facilita-urbano/sitemap.xml
