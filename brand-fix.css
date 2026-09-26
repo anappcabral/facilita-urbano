@@ -1,0 +1,14 @@
+.brand{display:flex;align-items:center;text-decoration:none;color:#0d2b45}
+.brand img{display:block;width:190px;height:62px;object-fit:contain;object-position:left center}
+.site-header .brand{height:68px;overflow:hidden}
+.site-header .brand img{width:178px}
+.footer-brand{background:#fff;border-radius:10px;padding:5px 8px;width:max-content}
+.footer-brand img{width:160px;height:58px}
+.stamp-img{position:absolute;z-index:4;right:32px;bottom:24px;width:116px;height:136px;object-fit:contain}
+.promise-seal{width:105px;height:120px;object-fit:contain}
+@media(max-width:600px){
+  .site-header .brand img{width:145px}
+  .stamp-img{right:14px;bottom:18px;width:88px;height:104px}
+  .promise-seal{width:95px}
+  .promise>img{grid-column:1}
+}
