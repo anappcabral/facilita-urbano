@@ -12,3 +12,6 @@
   .promise-seal{width:95px}
   .promise>img{grid-column:1}
 }
+
+/* Preserve the approved seal on the dark hero background. */
+.hero-art .stamp-img{background:#fff;border-radius:14px;padding:8px;height:auto;object-fit:contain;filter:none;mix-blend-mode:normal;opacity:1}
