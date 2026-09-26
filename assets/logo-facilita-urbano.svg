@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 150" role="img" aria-labelledby="title desc">
+  <title id="title">Facilita Urbano</title>
+  <desc id="desc">Símbolo FU azul e laranja. O U termina em uma seta apontando para cima.</desc>
+  <defs>
+    <linearGradient id="blue" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0B57D0"/><stop offset="1" stop-color="#00AEEF"/></linearGradient>
+    <linearGradient id="orange" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#FF6B00"/><stop offset="1" stop-color="#FFA94D"/></linearGradient>
+  </defs>
+  <path d="M18 126V45c0-24 17-39 41-39h62v28H62c-10 0-16 6-16 16v18h59v28H46v30z" fill="url(#blue)"/>
+  <path d="M76 67v17c0 20 12 33 30 33 20 0 32-13 32-34V39" fill="none" stroke="url(#orange)" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M138 6l-23 31h46z" fill="#FF6B00"/>
+  <text x="180" y="67" font-family="Manrope,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-3" fill="#0D2B45">Facilita</text>
+  <text x="180" y="124" font-family="Manrope,Arial,sans-serif" font-size="58" font-weight="800" letter-spacing="-3" fill="#FF6B00">Urbano</text>
+  <text x="180" y="145" font-family="Manrope,Arial,sans-serif" font-size="15" font-weight="600" fill="#0D2B45">A vida prática, descomplicada.</text>
+</svg>
